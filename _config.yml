@@ -82,8 +82,8 @@ author:
   bio              : "Structural geology and tectonics"
   location         : "Prague, CZ"
   employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  googlescholar    : 
+  email            : "lexa.ondrej@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -99,11 +99,12 @@ author:
   linkedin         :
   orcid            : "http://orcid.org/0000-0003-4616-9154"
   pinterest        :
+  researcherid     : "http://www.researcherid.com/rid/B-7264-2008"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "&ondrolexa"
+  twitter          : "ondrolexa"
   vine             :
   weibo            :
   xing             :
