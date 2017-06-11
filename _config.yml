@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ondrej Lexa"
+title                    : "Personal website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
