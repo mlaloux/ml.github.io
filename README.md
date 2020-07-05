@@ -14,6 +14,18 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 
 See more info at https://academicpages.github.io/
 
+```python
+
+    point = ogr.Geometry(ogr.wkbPoint)
+    point.AddPoint(x,y)
+    distance =  point1.Distance(point2)
+    line = ogr.Geometry(ogr.wkbLineString) 
+        line.AddPoint(x1, y1)
+        ....
+        line.AddPoint(xn,yn)
+```
+
+
 # Changelog -- bugfixes and enhancements
 
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
