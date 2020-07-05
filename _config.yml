@@ -97,11 +97,11 @@ author:
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-4616-9154"
+  orcid            :
   pinterest        :
-  researcherid     : "http://www.researcherid.com/rid/B-7264-2008"
+  researcherid     :# "http://www.researcherid.com/rid/B-7264-2008"
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://gis.stackexchange.com/users/2581/gene
   steam            :
   tumblr           :
   twitter          :
