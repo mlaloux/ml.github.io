@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ondrej Lexa"
+  name             : "Martin Laloux"
   avatar           : "profile.png"
-  bio              : "Structural geology and tectonics"
-  location         : "Prague, CZ"
+  bio              : "Géologie et Python"
+  location         : "Louvain-la-Neuve (Belgique)"
   employer         : 
   googlescholar    : 
-  email            : "lexa.ondrej@gmail.com"
+  email            : "martin.laloux@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "ondrolexa"
+  github           : "mlaloux"
   google_plus      :
   keybase          :
   instagram        : 
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ondrolexa"
+  twitter          :
   vine             :
   weibo            :
   xing             :
